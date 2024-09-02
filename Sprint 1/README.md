@@ -1,7 +1,7 @@
 <h2>Exercícios</h2>
 
 <p>Está Sprint não teve exercícios, então o foco dela foi assistir as aulas para poder realizar o desafio<br>
-Os códigos e demais informações e dados pertinentes à sua execução estão disponíveis no <a href src="https://github.com/Diloko/PB-Diogo-Ramos/blob/main/Sprint%201/Desafio/README.md">README</a> do desafio.</p> <br>
+Os códigos e demais informações e dados pertinentes à sua execução estão disponíveis no <a href src="Desafio/README.md">README</a> do desafio.</p> <br>
 
 <h2>Evidências</h2>
 
@@ -25,7 +25,7 @@ Os códigos e demais informações e dados pertinentes à sua execução estão 
 
 <img src="Evidências/Pasta_backup_final.png"><br>
 
-<p>Para mais detalhes sobre o desafio, acesse o <a href src="https://github.com/Diloko/PB-Diogo-Ramos/blob/main/Sprint%201/Desafio/README.md">README</a> do desafio</p>
+<p>Para mais detalhes sobre o desafio, acesse o <a href src="Desafio/README.md">README</a> do desafio</p>
 
 
 <h2>Considerações Finais</h2>
