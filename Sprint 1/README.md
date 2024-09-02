@@ -24,7 +24,7 @@ Os códigos e demais informações e dados pertinentes à sua execução estão 
 
 <img src="Evidências/Pasta_backup_final.png"><br>
 
-<p>Para mais detalhes sobre o desafio, acesse o <a href src="https://github.com/Diloko/PB-Diogo-Ramos/blob/main/Sprint%201/Desafio/README.md">README</a> do desafio</p>
+<p>Para mais detalhes sobre o desafio, acesse o <a href="https://github.com/Diloko/PB-Diogo-Ramos/blob/main/Sprint%201/Desafio/README.md">README</a> do desafio</p>
 
 
 <h2>Considerações Finais</h2>
