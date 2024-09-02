@@ -1,0 +1,23 @@
+Data do Sistema:2024_08_31-15:27
+
+Data Primeiro Registo de Vendas
+21/08/2024
+
+Data Ultimo Registro de Vendas
+15/09/2021
+
+Quantidade total de itens diferentes vendidos
+77
+
+10 primeiras linhas do arquivo backup-dados
+id,produto,quantidade,preço,data
+150, controle xbox, 450.00,2,21/08/2024
+149,console ps5, 4499.00,1,20/12/2023
+170,tabaco,15.00,7,17/02/2024
+160,carvão narguile, 36.00,2,17/02/2024
+102,coca-cola 2l,20,9.69,30/06/2023
+107,óculos rv, 1,4500.00,05/07/2023
+135,placa wireless pci-e,1,250.00,26/09/2023
+125,bola molten, 10,350.00,25/06/2023
+126,cola dalehand,3,120.00,25/06/2023
+

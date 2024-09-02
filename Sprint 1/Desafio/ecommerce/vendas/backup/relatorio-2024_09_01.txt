@@ -1,0 +1,23 @@
+Data do Sistema:2024_09_01-15:27
+
+Data Primeiro Registo de Vendas
+20/07/2024
+
+Data Ultimo Registro de Vendas
+11/11/2023
+
+Quantidade total de itens diferentes vendidos
+83
+
+10 primeiras linhas do arquivo backup-dados
+id,produto,quantidade,preço,data
+200,webcam anker,1,260.00,20/07/2024
+201,gamesir g8,1,350.00,15/06/2024
+202,lenovo pro pen3,1,320.00,15/06/2024
+204,frigobar midea,1,780.00,02/04/2019
+300,poltrona massageadora,1,4800.00,03/04/2025
+150, controle xbox, 450.00,2,21/08/2024
+149,console ps5, 4499.00,1,20/12/2023
+170,tabaco,15.00,7,17/02/2024
+160,carvão narguile, 36.00,2,17/02/2024
+

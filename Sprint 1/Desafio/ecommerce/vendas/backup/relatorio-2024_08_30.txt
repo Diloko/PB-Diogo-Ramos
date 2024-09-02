@@ -1,0 +1,23 @@
+Data do Sistema:2024_08_30-15:27
+
+Data Primeiro Registo de Vendas
+30/06/2023
+
+Data Ultimo Registro de Vendas
+25/04/2023
+
+Quantidade total de itens diferentes vendidos
+72
+
+10 primeiras linhas do arquivo backup-dados
+id,produto,quantidade,preço,data
+102,coca-cola 2l,20,9.69,30/06/2023
+107,�culos rv, 1,4500.00,05/07/2023
+135,placa wireless pci-e,1,250.00,26/09/2023
+125,bola molten, 10,350.00,25/06/2023
+126,cola dalehand,3,120.00,25/06/2023
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+
