@@ -2,7 +2,7 @@
 
 <h3>Informações Sobre Mim</h3>
 
-<p style="font-family:Times New Roman">Atualmente moro na cidade de Franca, localizada no interior de SP.<br>
+<p>Atualmente moro na cidade de Franca, localizada no interior de SP.<br>
 Curso Desenvolvimento de Software Multiplataforma (DSM) na Fatec Franca, estou no 2° semestre.<br>
 Não possuo ainda muitos conhecimentos ou experiências, mas tenho em mente já a vontade de trabalhar com o back-end,<br> apesar de conhecer o básico do front.<br>
 Possuo certificação equivalente ao nível B2 em inglês, com a certificação do exame TOEIC<br>
