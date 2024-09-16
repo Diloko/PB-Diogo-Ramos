@@ -17,7 +17,7 @@ Como hobbie gosto de acompanahr alguns e-sports, principalmente do cenário de M
 Segue abaixo os links das sprints desenvolvidas durante o PB (serão adicionados os links conforme as sprints forem acontecendo)
 
 <a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%201">Sprint 1</a><br>
-<a href="">Sprint 2</a><br>
+<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%202">Sprint 2</a><br>
 <a href="">Sprint 3</a><br>
 <a href="">Sprint 4</a><br>
 <a href="">Sprint 5</a><br>
