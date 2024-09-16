@@ -1,5 +1,7 @@
 <h1>Olá, eu sou o Diogo Guimarães Ramos</h1>
 
+<img src="https://github.com/user-attachments/assets/c521e57f-479f-4790-a8cd-9fdfbcec28cf" width="480">
+
 <h3>Informações Sobre Mim</h3>
 
 <p>Atualmente moro na cidade de Franca, localizada no interior de SP.<br>
