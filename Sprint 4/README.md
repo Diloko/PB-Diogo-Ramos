@@ -2,7 +2,7 @@
 
 <p>Nessa sprint foram obtidos dois certificados da AWS, que se encontram na pastas do link abaixo</p> <br>
 
-<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%201">Certificados</a><br>
+<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%204/Certificados">Certificados</a><br>
 
 <h2>Exercícios</h2>
 
