@@ -2,7 +2,7 @@
 
 <p>Nessa sprint foram obtidos um certificado e uma badge da AWS, que se encontram na pastas do link abaixo</p> <br>
 
-<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%204/Certificados">Certificados</a><br>
+<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%205/Certificados">Certificados</a><br>
 
 <a href="https://www.credly.com/badges/daebde93-3c20-41d9-9e5c-2338fbf72771/public_url">Badge Cloud Quest</a>
 
@@ -10,7 +10,7 @@
 
 <p>Está Sprint teve apenas um exercício para nos mostrar e introduzir a criação dos buckets no S3. Abaixo tem o link para a pasta com as imagens sobre a sua execução.</p> <br>
 
-<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%204/Exercícios">Exercícios</a><br>
+<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%205/Exercícios">Exercícios</a><br>
 
 <h2>Evidências</h2>
 
