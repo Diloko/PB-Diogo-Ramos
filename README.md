@@ -21,7 +21,7 @@ Segue abaixo os links das sprints desenvolvidas durante o PB (serão adicionados
 <a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%203">Sprint 3</a><br>
 <a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%204">Sprint 4</a><br>
 <a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%205">Sprint 5</a><br>
-<a href="">Sprint 6</a><br>
+<a href="https://github.com/Diloko/PB-Diogo-Ramos/tree/main/Sprint%206">Sprint 6</a><br>
 <a href="">Sprint 7</a><br>
 <a href="">Sprint 8</a><br>
 <a href="">Sprint 9</a><br>
