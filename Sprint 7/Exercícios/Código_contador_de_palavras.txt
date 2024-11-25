@@ -1,0 +1,5 @@
+textFile = sc.textFile("/home/jovyan/README.md")
+words = textFile.flatMap(lambda line: line.split(" "))
+wordCounts = words.map(lambda word: (word, 1)).reduceByKey(lambda a, b: a + b)
+for word, count in wordCounts.collect():
+    print(f"{word}: {count}")

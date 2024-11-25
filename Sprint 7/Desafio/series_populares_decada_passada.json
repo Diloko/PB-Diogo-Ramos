@@ -1,0 +1,463 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16,
+                10762,
+                35,
+                10765,
+                10759
+            ],
+            "id": 155256,
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "\u5f00\u5fc3\u8d85\u4eba\u8054\u76df",
+            "overview": "",
+            "popularity": 598.725,
+            "poster_path": "/wqOYz9kpRbznmYPdJFSwjZ4HCT9.jpg",
+            "first_air_date": "2010-07-02",
+            "name": "\u5f00\u5fc3\u8d85\u4eba\u8054\u76df",
+            "vote_average": 7.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lTGTQ02Bci6SIncqE1aljuy3NK7.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 99466,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "\u30e4\u30ea\u30c1\u30f3\u2606\u30d3\u30c3\u30c1\u90e8",
+            "overview": "",
+            "popularity": 534.587,
+            "poster_path": "/5bAcvgpy0yGUXkQJV2RE52dIvUk.jpg",
+            "first_air_date": "2018-09-21",
+            "name": "\u30e4\u30ea\u30c1\u30f3\u2606\u30d3\u30c3\u30c1\u90e8",
+            "vote_average": 7.3,
+            "vote_count": 37
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick \u00e9 um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua fam\u00edlia. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espa\u00e7o e em universos alternativos. Compostos \u00e0 vida familiar j\u00e1 inst\u00e1vel de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.",
+            "popularity": 475.415,
+            "poster_path": "/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+            "first_air_date": "2013-12-02",
+            "name": "Rick e Morty",
+            "vote_average": 8.693,
+            "vote_count": 9776
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nPhrJRN1U95NJiOfwtGF2GlZP4a.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10765
+            ],
+            "id": 79141,
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "\u523a\u5ba2\u4f0d\u516d\u4e03",
+            "overview": "Em busca de dinheiro para tratar a amn\u00e9sia, Seven tenta a sorte no competitivo mundo dos assassinos de aluguel. Mas ser\u00e1 que ele tem voca\u00e7\u00e3o para o crime?",
+            "popularity": 302.411,
+            "poster_path": "/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
+            "first_air_date": "2018-04-25",
+            "name": "Scissor Seven",
+            "vote_average": 8.6,
+            "vote_count": 671
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10765
+            ],
+            "id": 65942,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u7570\u4e16\u754c\u751f\u6d3b",
+            "overview": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega \u00e9 maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, trai\u00e7\u00f5es, viol\u00eancia irracional... e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para proteg\u00ea-la. E assim, o pobre garoto sem poder algum obt\u00e9m o \"Retorno da Morte\", uma habilidade \u00fanica que permite ao usu\u00e1rio voltar no tempo ao morrer. Usando esse poder, o passado \u00e9 perdido e as mem\u00f3rias s\u00e3o reescritas.",
+            "popularity": 256.217,
+            "poster_path": "/kLJonmVSDWyLKs7iVq7MaFqTn5V.jpg",
+            "first_air_date": "2016-04-04",
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "vote_average": 7.7,
+            "vote_count": 454
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oJxLvh3ku9Ad8Axpm73DL45o1hw.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10762
+            ],
+            "id": 33765,
+            "origin_country": [
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "My Little Pony: Friendship Is Magic",
+            "overview": "\"My Little Pony: Friendship is Magic\"(MLP:FiM) \u00e9 a mais recente s\u00e9rie animada baseada na j\u00e1 cl\u00e1ssica marca \"My Little Pony\" (MLP) criada pelo fabricante de brinquedos Hasbro.\n\nEsta s\u00e9rie estreou em Outubro de 2010, e foi criada por Lauren Faust, criadora de \"Foster's Home for Imaginary Friends\", animadora para \"The Iron Giant\", argumentista das \"Powerpuff Girls\", e esposa de Craig McCracken, criadora desta \u00faltima s\u00e9rie.",
+            "popularity": 235.656,
+            "poster_path": "/qrp4ExXJhbAo1lKWbfiBKn6vXAF.jpg",
+            "first_air_date": "2010-10-10",
+            "name": "My Little Pony:  A Amizade \u00e9 M\u00e1gica",
+            "vote_average": 8.1,
+            "vote_count": 645
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "id": 15260,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Adventure Time",
+            "overview": "Com 12 anos de idade, Finn combate o mal na terra de Ooo na companhia de seu cachorro m\u00e1gico, Jake. Quando estes dois grandes amigos se juntam e dizem as palavras m\u00e1gicas \"Hora de Aventura\", tudo pode acontecer.",
+            "popularity": 216.799,
+            "poster_path": "/2EMpiF1GireQHs3f9JKCFoKElju.jpg",
+            "first_air_date": "2010-04-05",
+            "name": "Hora de Aventura",
+            "vote_average": 8.501,
+            "vote_count": 2765
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 31132,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Regular Show",
+            "overview": "Mordecai e Rigby s\u00e3o guardas de um parque. Mas esses melhores amigos s\u00e3o pregui\u00e7osos e n\u00e3o deixam o trabalho interferir com sua capacidade de se divertir. Enquanto Mordecai tenta ser respons\u00e1vel e fazer um bom trabalho, \u00e9 frequentemente desencaminhado por seu imaturo companheiro, totalmente imune \u00e0 vergonha ou ao medo e sem nenhum limite. Os amigos acabam sempre pagando pelas suas a\u00e7\u00f5es irrespons\u00e1veis, pois se metem em mais confus\u00f5es do que esperavam. A neglig\u00eancia no trabalho causa muito desgosto ao chefe temperamental da dupla, Benson.",
+            "popularity": 216.673,
+            "poster_path": "/b56jpir0S12bxD6WyjMZg92c9Zr.jpg",
+            "first_air_date": "2010-09-06",
+            "name": "Apenas um Show",
+            "vote_average": 8.629,
+            "vote_count": 2013
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10765,
+                10751
+            ],
+            "id": 45140,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Teen Titans Go!",
+            "overview": "Robin, Estelar, Ravena, Mutano e Ciborgue s\u00e3o super-her\u00f3is que moram juntos. Quando n\u00e3o est\u00e3o ocupados brigando e competindo, garantem a seguran\u00e7a de Jump City.",
+            "popularity": 207.978,
+            "poster_path": "/7YAFoSGn6gBhZFzuWhHaGa3jJOi.jpg",
+            "first_air_date": "2013-04-23",
+            "name": "Os Jovens Tit\u00e3s em A\u00e7\u00e3o!",
+            "vote_average": 6.6,
+            "vote_count": 629
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                10765,
+                35
+            ],
+            "id": 37606,
+            "origin_country": [
+                "IE",
+                "GB",
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Amazing World of Gumball",
+            "overview": "O Incr\u00edvel Mundo de Gumball \u00e9 uma s\u00e9rie de desenho animado brit\u00e2nica e estadunidense criada por Ben Bocquelet e produzida pelo Cartoon Network Development Studio Europe, est\u00fadio do Cartoon Network equivalente europeu do Cartoon Network Studios. A s\u00e9rie conta a hist\u00f3ria de Gumball e suas aventuras no dia-a-dia junto com seu irm\u00e3o Darwin.\n\nEstreou em 2 de maio de 2011 no Reino Unido e em 9 de maio nos Estados Unidos.",
+            "popularity": 199.955,
+            "poster_path": "/2NGCRWnZpsIevwpjBLkoXfnqSgg.jpg",
+            "first_air_date": "2011-05-03",
+            "name": "O Incr\u00edvel Mundo de Gumball",
+            "vote_average": 8.517,
+            "vote_count": 1437
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 32726,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bob's Burgers",
+            "overview": "A s\u00e9rie acompanha Bob da terceira gera\u00e7\u00e3o de uma fam\u00edlia de propriet\u00e1rios de restaurantes, respons\u00e1vel por administrar a hamburgueria \"Bob's Burgers\" junto com sua esposa e seus tr\u00eas filhos. Bob e sua peculiar fam\u00edlia t\u00eam grandes ideias para os hamb\u00fargueres, mas est\u00e3o pobres em servi\u00e7o e em sofistica\u00e7\u00e3o.",
+            "popularity": 190.613,
+            "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+            "first_air_date": "2011-01-09",
+            "name": "Bob's Burgers",
+            "vote_average": 7.8,
+            "vote_count": 915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+            "genre_ids": [
+                16,
+                35,
+                9648,
+                10765,
+                10762
+            ],
+            "id": 40075,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Gravity Falls",
+            "overview": "Os g\u00eameos Dipper e Mabel ficam desapontados ao ter que passar o ver\u00e3o com seu tio-av\u00f4, mas a cidade onde ele vive acaba se revelando um lugar estranho e maravilhoso.",
+            "popularity": 176.537,
+            "poster_path": "/21WVSbe9BB3GYnlxr4UF9H4DmO6.jpg",
+            "first_air_date": "2012-06-15",
+            "name": "Gravity Falls: Um Ver\u00e3o de Mist\u00e9rios",
+            "vote_average": 8.59,
+            "vote_count": 2998
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
+            "genre_ids": [
+                10759,
+                16,
+                35,
+                10765
+            ],
+            "id": 65844,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "\u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff01",
+            "overview": "Ap\u00f3s um acidente de tr\u00e2nsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e v\u00ea uma bel\u00edssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo. Kazuma decide levar a pr\u00f3pria deusa consigo, e eles s\u00e3o transportados para um mundo de fantasia cheio de aventura, dominado por um rei-dem\u00f4nio. Agora Kazuma quer apenas viver em paz, mas Aqua quer resolver v\u00e1rios dos problemas deste novo mundo, e o rei-dem\u00f4nio n\u00e3o vai ignor\u00e1-los por muito tempo...",
+            "popularity": 170.402,
+            "poster_path": "/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg",
+            "first_air_date": "2016-01-14",
+            "name": "KONOSUBA -God's blessing on this wonderful world!",
+            "vote_average": 8.6,
+            "vote_count": 1284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ptEtIr3rVuAJpmbwaLJJqND6HVq.jpg",
+            "genre_ids": [
+                16,
+                10759,
+                10765,
+                35
+            ],
+            "id": 38693,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Ninjago: Masters of Spinjitzu",
+            "overview": "Kai, Jay, Cole e Zane precisam aprender a usar seus poderes e as armas de Spinjitzu para proteger Ninjago dos seres que habitam o submundo.",
+            "popularity": 170.121,
+            "poster_path": "/rkkUST4EziDyW3KOdwmVRnWJpS9.jpg",
+            "first_air_date": "2012-01-11",
+            "name": "Ninjago: Mestres do Spinjitzu",
+            "vote_average": 7.9,
+            "vote_count": 704
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Wm3NkGNCT08l95S0n6mowKyoao.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 72296,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "\u306f\u3058\u3081\u3066\u306e\u30ae\u30e3\u30eb",
+            "overview": "Com o come\u00e7o do novo per\u00edodo escolar, come\u00e7a tamb\u00e9m um novo per\u00edodo de encontros. Diante de sua sala de aula cheia de casaizinhos, Jun'Ichi Hashiba fica perturbado. \"Por que eu ainda sou virgem?\" Quando seus amigos lhe contam que a maneira mais f\u00e1cil de deixar de fazer parte da associa\u00e7\u00e3o dos encalhados \u00e9 se render a uma gal, Jun'Ichi decide convidar sua colega Yukana para sair - e por incr\u00edvel que possa parecer, ela acaba concordando. O que ser\u00e1 da vida de Jun'Ichi de agora em diante?",
+            "popularity": 166.311,
+            "poster_path": "/qGXd58PIikQdX5vDXecAMgns6w6.jpg",
+            "first_air_date": "2017-07-12",
+            "name": "My First Girlfriend is a Gal",
+            "vote_average": 8.4,
+            "vote_count": 371
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
+            "genre_ids": [
+                16,
+                10762,
+                35
+            ],
+            "id": 82728,
+            "origin_country": [
+                "AU"
+            ],
+            "original_language": "en",
+            "original_name": "Bluey",
+            "overview": "As aventuras na vida de um filhote de cachorro Boiadeiro-australiano azul enquanto ele se diverte com sua fam\u00edlia e amigos em situa\u00e7\u00f5es cotidianas.",
+            "popularity": 148.541,
+            "poster_path": "/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+            "first_air_date": "2018-10-01",
+            "name": "Bluey",
+            "vote_average": 8.615,
+            "vote_count": 532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7Rei6j3EH312vfK0Xi2BKAdi73W.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10751,
+                10765
+            ],
+            "id": 61175,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Steven Universe",
+            "overview": "Acredite em Steven! Steven Universo \u00e9 um her\u00f3i metade humano metade Gem que est\u00e1 aprendendo a salvar o mundo com os  poderes m\u00e1gicos que v\u00eam do seu umbigo. Steven pode at\u00e9 n\u00e3o ser t\u00e3o  poderoso quanto as Crystal Gems. Ou t\u00e3o esperto. Mas isso n\u00e3o o impede  de se unir a Garnet, Ametista e P\u00e9rola em suas aventuras m\u00e1gicas \u2013 nas  quais Steven sempre encontra uma forma surpreendente de salvar o dia.",
+            "popularity": 143.091,
+            "poster_path": "/6O1uHHMhgBBkDpKiJE53wKvnHmv.jpg",
+            "first_air_date": "2013-11-04",
+            "name": "Steven Universo",
+            "vote_average": 8.4,
+            "vote_count": 1167
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7AstE6bGgzVH9lFsPvLNifcQwQg.jpg",
+            "genre_ids": [
+                16,
+                10759,
+                35,
+                10765
+            ],
+            "id": 45950,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "\u30cf\u30a4\u30b9\u30af\u30fc\u30ebD\u00d7D",
+            "overview": "Conta a hist\u00f3ria de Issei Hyodo, um idiota, vagabundo e pervertido, do segundo ano colegial. Quando Issei, supostamente, consegue uma namorada, ele \u00e9 morto por ela em seu primeiro encontro. Issei \u00e9 reencarnado como um dem\u00f4nio, e dali em diante, ele ser\u00e1 um servo de Rias, um dem\u00f4nio de alto n\u00edvel que tamb\u00e9m \u00e9 a garota mais bonita no col\u00e9gio de Issei.",
+            "popularity": 141.777,
+            "poster_path": "/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
+            "first_air_date": "2012-01-06",
+            "name": "High School DxD",
+            "vote_average": 8.569,
+            "vote_count": 1874
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b2egfASudQeAoTzObV8XAj5Grw0.jpg",
+            "genre_ids": [
+                10762,
+                16,
+                35,
+                10751
+            ],
+            "id": 74415,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Grizzy et les Lemmings",
+            "overview": "Em uma vasta reserva natural, a casa do guarda-florestal se torna o campo de batalha entre o urso Grizzy e a mais inofensiva e rid\u00edcula fam\u00edlia de mam\u00edferos que existe, os Lemmings.",
+            "popularity": 141.636,
+            "poster_path": "/qA3NM3luPVFqSpjxtK8de8Foe7M.jpg",
+            "first_air_date": "2016-12-31",
+            "name": "Grizzy e os Lemmings",
+            "vote_average": 6.7,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 61222,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "BoJack Horseman",
+            "overview": "Conhe\u00e7a o cavalo mais amado da TV dos anos 90... vinte anos depois! Ranzinza e com um cora\u00e7\u00e3o de... n\u00e3o exatamente ouro... mas parecido. Lat\u00e3o?",
+            "popularity": 140.685,
+            "poster_path": "/pB9L0jAnEQLMKgexqCEocEW8TA.jpg",
+            "first_air_date": "2014-08-22",
+            "name": "BoJack Horseman",
+            "vote_average": 8.56,
+            "vote_count": 2394
+        }
+    ],
+    "total_pages": 71,
+    "total_results": 1404
+}
