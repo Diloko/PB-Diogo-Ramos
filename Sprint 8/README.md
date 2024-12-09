@@ -14,7 +14,7 @@
 Dentro da pasta dos exercícios, tem os códigos gerados durante a execução dos mesmos e imagens dos resultados, o arquivo txt está compactado para poder subir aqui no git:
 
 Arquivo txt geração nomes:<br>
-![Arquivo txt geração nomes](../Sprint%208/Exercícios/resultado_geração_nomes.pngg)
+![Arquivo txt geração nomes](../Sprint%208/Exercícios/resultado_geração_nomes.png)
 
 Execução Sparkk:<br>
 ![Execução Spark](../Sprint%208/Exercícios/execução_spark1.png)
