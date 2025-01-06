@@ -1,0 +1,30 @@
+SELECT DISTINCT * FROM "AwsDataCatalog"."data-lake-diogo"."refined_view" 
+WHERE genero LIKE '%Comedy%'
+    AND genero NOT LIKE '%Animation%'
+    AND anoLancamento BETWEEN '2011' AND '2020'
+    AND revenue <> 0
+order by popularity desc
+limit 10
+
+SELECT DISTINCT * FROM "AwsDataCatalog"."data-lake-diogo"."refined_view" 
+WHERE genero LIKE '%Animation%'
+    AND anoLancamento BETWEEN '2011' AND '2020'
+    AND revenue <> 0
+order by popularity desc
+limit 10
+
+SELECT DISTINCT * FROM "AwsDataCatalog"."data-lake-diogo"."refined_view" 
+WHERE genero LIKE '%Comedy%'
+    AND genero NOT LIKE '%Animation%'
+    AND anoLancamento BETWEEN '2011' AND '2020'
+    AND revenue <> 0
+order by lucro desc
+limit 10
+
+SELECT DISTINCT * FROM "AwsDataCatalog"."data-lake-diogo"."refined_view" 
+WHERE genero LIKE '%Comedy%'
+    AND genero NOT LIKE '%Animation%'
+    AND anoLancamento BETWEEN '2011' AND '2020'
+    AND revenue <> 0
+order by lucro desc
+limit 10
